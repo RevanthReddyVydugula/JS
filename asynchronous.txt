@@ -1,0 +1,1 @@
+Asynchronous programming in JavaScript is a way of handling tasks that involve waiting for something to happen, such as fetching data from a server or reading a file. It allows JavaScript to execute multiple operations simultaneously without blocking the execution of other code.
